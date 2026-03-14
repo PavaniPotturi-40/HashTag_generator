@@ -2,8 +2,8 @@
 ##########################################
 #
 # Improved HashtagGenerator.py
-# Extract hashtags from URL or text using LDA
-# Added evaluation using Topic Coherence
+# Hashtag extraction using LDA
+# Evaluation: Coherence, Precision, Recall, F1, BLEU
 #
 #########################################
 
@@ -11,6 +11,7 @@ from __future__ import print_function
 
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.translate.bleu_score import sentence_bleu
 import gensim
 from gensim import corpora
 from gensim.models import CoherenceModel
@@ -87,7 +88,7 @@ def main():
 
         words = []
 
-        important_words = {"ai", "ml", "nlp"}
+        important_words = {"ai","ml","nlp"}
 
         for word in punc_free.split():
 
@@ -138,19 +139,23 @@ def main():
         for word, prob in topic[1]:
 
             if len(word) > 3:
-                hashtags.append("#" + word)
+                hashtags.append(word)
 
     hashtags = list(dict.fromkeys(hashtags))
     hashtags = hashtags[:FLAGS.hashtags]
 
-    print("\nHashTags:\n")
+    print("\nGenerated HashTags:\n")
 
     for ht in hashtags:
-        print(ht, end=" ")
+        print("#"+ht, end=" ")
 
     print("\n")
 
-    # -------- EVALUATION METRIC --------
+    # ==========================
+    # Evaluation Metrics
+    # ==========================
+
+    # -------- Topic Coherence --------
     coherence_model = CoherenceModel(
         model=ldamodel,
         texts=doc_clean,
@@ -161,6 +166,34 @@ def main():
     coherence_score = coherence_model.get_coherence()
 
     print("Topic Coherence Score:", round(coherence_score,3))
+
+    # -------- Reference Hashtags (for demo evaluation) --------
+    reference_tags = {"ai","machinelearning","data","algorithm","healthcare","technology"}
+
+    generated_tags = set(hashtags)
+
+    # -------- Precision --------
+    tp = len(reference_tags & generated_tags)
+
+    precision = tp / len(generated_tags) if len(generated_tags) > 0 else 0
+    recall = tp / len(reference_tags)
+
+    if precision + recall == 0:
+        f1 = 0
+    else:
+        f1 = 2 * (precision * recall) / (precision + recall)
+
+    print("Precision:", round(precision,3))
+    print("Recall:", round(recall,3))
+    print("F1 Score:", round(f1,3))
+
+    # -------- BLEU Score --------
+    reference = [list(reference_tags)]
+    candidate = list(generated_tags)
+
+    bleu_score = sentence_bleu(reference, candidate)
+
+    print("BLEU Score:", round(bleu_score,3))
 
 
 if __name__ == "__main__":
