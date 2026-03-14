@@ -64,18 +64,18 @@ def main():
     # -------- CLEANING FUNCTION --------
     def clean(doc):
 
-        stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
-        punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+    stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
+    punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
 
-        words = []
-        for word in punc_free.split():
+    words = []
+    for word in punc_free.split():
 
-            word = lemma.lemmatize(word)
+        word = lemma.lemmatize(word)
 
-           if (len(word) > 3 or word in ["ai","ml"]) and word.isalpha():                
-                   words.append(word)
+        if (len(word) > 3 and word.isalpha()):
+            words.append(word)
 
-        return " ".join(words)
+    return " ".join(words)
 
     # -------- CLEAN DOCUMENT --------
     doc_clean = [clean(doc).split() for doc in doc_complete if clean(doc) != ""]
