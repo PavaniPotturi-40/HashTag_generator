@@ -1,4 +1,3 @@
-Here is a **~200-word summary** of the article:
 
 The article **“AI: The Good, The Bad and The Ugly”** discusses the positive and negative impacts of artificial intelligence on society. It explains that AI is neither completely good nor completely harmful; its effects depend on how humans choose to use it. ([Medium][1])
 
