@@ -3,6 +3,7 @@
 #
 # Improved HashtagGenerator.py
 # Extract hashtags from URL or text using LDA
+# Added evaluation using Topic Coherence
 #
 #########################################
 
@@ -12,6 +13,7 @@ from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 import gensim
 from gensim import corpora
+from gensim.models import CoherenceModel
 import string
 import argparse
 import re
@@ -31,7 +33,6 @@ def main():
 
     stop = set(stopwords.words(FLAGS.language))
 
-    # Custom stopwords
     custom_stopwords = {
         "may","also","like","one","two","many","much",
         "article","good","bad","ugly","side","help",
@@ -140,7 +141,6 @@ def main():
                 hashtags.append("#" + word)
 
     hashtags = list(dict.fromkeys(hashtags))
-
     hashtags = hashtags[:FLAGS.hashtags]
 
     print("\nHashTags:\n")
@@ -149,6 +149,18 @@ def main():
         print(ht, end=" ")
 
     print("\n")
+
+    # -------- EVALUATION METRIC --------
+    coherence_model = CoherenceModel(
+        model=ldamodel,
+        texts=doc_clean,
+        dictionary=dictionary,
+        coherence='c_v'
+    )
+
+    coherence_score = coherence_model.get_coherence()
+
+    print("Topic Coherence Score:", round(coherence_score,3))
 
 
 if __name__ == "__main__":
