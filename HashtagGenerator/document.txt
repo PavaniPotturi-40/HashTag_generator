@@ -1,0 +1,187 @@
+t would be a spoiler alert to say: both. Yet can we embrace two extremes at the same time? It seems one must have an opinion. If we think of artificial intelligence as a tool we could state that it is the best used by the right people and the worst used by the wrong people. On the other hand there is seldom any clear line between the two. In this article I will discuss the good, the bad and the ugly sides of the field of artificial intelligence.
+
+1. The Good
+We could argue that artificial intelligence is one of the best advancements that have happened for our civilisation. I do not think personally that it is, nor that it is that straightforward, however let me go through some of the positive aspects of the development of artificial intelligence. It is easy to become focused on doom and gloom. I will list a few points that I have written about previously to gather my thoughts and take the stance of an optimist looking at the great things that the field of artificial intelligence can contribute with.
+
+1.1 Health & AI
+One of the most prominent recent advances in the field of AI was done by DeepMind being able to predict Acute Kidney Disease. This contributed to the too early death of my father-in-law, so I see the clear potential of preventing deaths in this manner through more accurately predicting when a kidney may fail.
+
+Other health applications include image recognition to detect cancer. There has been several attempts at using AI within this field and together with established researchers or through large training data it can ease the way that we detect one of the most common diseases today which many people fear.
+
+1.2 Construction & AI
+AI can help build better buildings, or hospitals with optimal conditions given the site, Spacemaker AI has developed a technology that can ensure several criteria at the same time. Enabling these technologies and building better buildings may both increase the way it is used and optimisation for light, wind and adaptation in terms of climate. Humans have done these calculations before and they must continue to do so, but AI-assisted solutions can at times be better.
+
+Hardware running software solutions that utilise advancements in the field of AI can reach in places hard by humans or where humans have been breaking their backs to reach or construct. This includes the deep sea, and maintenance is one of the areas where these applications can be explored.
+
+Understanding when a machine breaks down and responsible maintenance of hardware through prediction can make sure we know when it needs to be repaired. This is called predictive maintenance, and may ensure we waste less precious time and resources.
+
+1.3 Mobility & AI
+Better planning routes or finding solutions for how transportation can flow more smoothly is another question relating to optimisation. This can be done more efficiently with AI and seeing simulations of autonomous driving which integrates solutions within the field of AI shows some promise in reducing queues, saving time and being more fuel efficient than we could be when driving previously.
+
+As such logistics is a large area where solutions within the field of AI will be applied. It seems unlikely that driver who has been responsible of the ‘graveyard shift’ will no longer have to do so, however AI can assist the driver in helping the solutions run more smoothly.
+
+AI is already being used to optimise the way public transportation works in countries like Germany thus attempting to find out the best way to make the most our of your day. When transport arrives on time and more people can use public transportation it enables a more climate friendly solution to work better.
+
+Human mobility could be improved as well for those who are in wheel chairs or struggling with diseases such as Parkinson. OpenAI proved that AI can complete complex tasks like the Rubik’s cube. Although these applications are more likely to make their way into a factory it is not impossible to see the solutions being used to improve human mobility. Is there a new solution that could improve the wheelchair or even make it redundant for some? That is a question which arises thinking of AI and human mobility.
+
+1.4 Earth Observation & AI
+I mentioned previously in my articles the Amazon forest burning down. Although AI cannot solve the political issues in the area it can help understand how we can address forest fires or the long term plans for forest management. If we are to rebuild our forests and make the planet more lush it will not be possible without a great investment of time and resources.
+
+AI when used with climate data, which often is the case, build models already that helps us predict the weather. We can be thankful with this so that we can prepare when bad weather hits. With increasing amounts of extreme weather this is not any less important.
+
+Monitoring, presuming this is done responsibly while combining different data points around the planet may make us even more aware of just how bad conditions are. We already know the planet is in an increasingly bad state and we know we may have to contribute for the rest of our lives. However we may perhaps know better where to invest more effort or who we can ask to act more responsibly if we gather good data and run models including solutions in the field of AI.
+
+As such we can outline four areas that AI had immediate potential.
+
+Health
+Mobility
+Construction
+Earth Observation
+Of course I think there are more areas that I would like to include. I am not generally this optimistic, however I thought it would be worth to try.
+
+2. The Bad
+If we conceive of artificial intelligence as a technological advance that has systemic consequences in regards to society then we could argue it is bad worsening the current climate crisis or inequality that can be experienced on this planet. Controlling quantitative information about a population is not novel, but the scale and how extensive it is can indeed be said to be. Therefore we can say that this climate perspective and societal concern is one path to take in arguing it is the worst.
+
+2.1 AI & Capabilities
+Consider instead if a meteor was to hit planet earth, and it is not inconceivable. Three asteroids zoomed past earth in October 2019, one it is said with only 24-hour notice. If that is the case or any other threat to life on earth was to be instigated we may want to have the most advanced technology possible to assisting with the potential issues that could arise.
+
+Pandora’s box descriptions could find it useful to say: well the box is open, you cannot take back what has been revealed. The box cannot be unopened, however we could de-escalate the use of artificial intelligence, de-escalating technologies or keeping it to a minimal use was done in The Glass Bead Game, a novel written right before the war, published during the war and which received the Nobel Prize in literature in 1946.
+
+It was amongst the death and destruction that a book came out considering what an utopia would look like. I am not one to fantasise about utopia or any such thing, rather pragmatically a slightly better world may be conceivable growing with time. It is strange to say this amidst concerns related to artificial intelligence. With surveillance of the poor recently being described in quite lucid wording by the Special Rapporteur on extreme poverty and human rights, Philip Alston:
+
+“ The digital welfare state is either already a reality or is emerging in many countries across the globe. In these states, systems of social protection and assistance are increasingly driven by digital data and technologies that are used to automate, predict, identify, surveil, detect, target and punish. This report acknowledges the irresistible attractions for governments to move in this direction, but warns that there is a grave risk of stumbling zombie-like into a digital welfare dystopia.”
+
+As such the use of technology or ‘digital’ in a manner to be described as ‘the best thing’ that has happened to society seems dreadfully ignorant. Yes, by some standards we can say the world is improving and most people point to statistics. Statistics in a dying world, on a house on fire etc. seems optimistic.
+
+2.2 AI & Optimism
+It was optimism that was touted by Mao Zedong the Chinese communist revolutionary with “the great leap” — killing of birds to better grow crop, yet getting a locust of insects and famine in return. American ‘Freedom’ in the form or shape seems just another word again to be a possibility with the neoliberal seemingly opposite narrative. You could put any political ideology ahead of the field of artificial intelligence if you so wanted.
+
+Capital-driven or liberal AI has to some degree been the case with technology companies to better understand populations, some has dubbed it psychographics combined with sociometric indicators. As such both quantitative and qualitative social scientists working with ‘adoption’ or ensuring a certain technology is being used. If you have a trade then you would like to ensure the continuation of this, reminiscent of how Hong Kong was brokered in the first place — the first Opium war.
+
+In saying this relating to factuality or how correct this is I cannot be sure of. I am not a historian, yet historian seem to nowadays want to speak much of the future. I have mentioned outlining the future as a practice. Planning ahead or interpreting the past to take action has a ring of this historification. What interpretations of artificial intelligence are we making when we ask this question of better or worse?
+
+2.3 AI & Pessimism
+The cliché that comes to mind is the Terminator or HAL in old movies, representations of doom for humanity or some humans. This is of course being used by certain technologists to earn urgency in relation to investments, Elon Musk is one proponent. He could be criticised for this, and still people that I meet in the technology sector or developers in specific seem to have a worry that it will come to fruition. Not in the anthropomorphic way, human-like vengeance, more in simple mistakes that we should or should not have made.
+
+I mentioned nuclear war a few days ago. If we are on the doomsday-train, then that would be one of the first destinations. Epidemic or manufactured disease could be another. Next could be trade war, economic crisis or breakdown of the ecosystem. There is plenty to worry about, and still…
+
+Is artificial intelligence the best that has happened to our civilisation? When this is mentioned I cannot help to picture President Trump declaring on Thursday “a great day for civilization” after Mike Pence apparently brokered a ceasefire with Turkey. A leader who was accused of starting this war in the first place by pulling out troops. International relations are not straightforward, nor defence.
+
+Autonomous weapons in war is much discussed and increasingly protested. The Campaign Against Killer Robots has been on a tour showing the developments. I remember sitting down and seeing examples of weapons that are being developed by different countries: US, Russia, China, UK and more. The capabilities in war to destroy or ruin in various ways is increasing.
+
+2.4 AI & Power
+Artificial intelligence in hacking or distorting solutions in the way of extraction or shutting down is documented, however in terms of changing the course of decision-making is less documented. It is thought that artificial intelligence is giving more power to some of the richest people in the world to control this ebb and flow in national trade or power.
+
+Jeff Bezos the owner of Amazon.com is said to be the richest person in the world. Bill Gates is said to be the second richest person in the world. These two have managed to utilise more than simply machine learning techniques or AI as a field, yet it can be said to have contributed to their continued rise. Two other towards the top of the richest list are both the co-founders of Google, and their company is now said to be ‘AI-first’.
+
+Design paradigms have not been so much focused on technology, but it has been ego-centric first and later people-centric. Now it is claimed by some we have to change this to life-centric design. That sounds airy or vague, yet considering the ecosystem in the design process should not be a novel idea. If the field of AI can become life-centric what would that look like? If that was to be the case would there not still be power or prestige to be gained? Design is a plan or specification while algorithms are processes and rules, yet both these areas of consideration are not without politics.
+
+I am increasingly influenced by the field of political science with its slant towards realism and in this perspective particularly in relation to international security policy, AI is equally tantalising and dangerous. If you could start a war or gain information without the ‘enemy’ knowing, or if you could wage a war without any lives lost — well it sounds a lot like drone war, although these are technologies controlled by humans.
+
+2.5 AI & Control
+When we say controlled by humans, it is a weird statement, as if there was a distinction. What is not controlled by humans? Not that a decision has immediate effect, especially if it is programmed. Then again humans do make investments too, and companies have person status, more rights at times. This has been suggested to do with ‘AI’-applications as well, give ‘AI’ legal status as a person within this framework. However it would be strange to attribute mistakes to a system instead of a person or company. We loop the loop, the company is a person is a company, I digress.
+
+When we say: it is decided by the system — we are mistaken and correct. We are wrong, because a person did decide, and we are correct because a decision was jointly made. A system is a set of things working together as parts of a mechanism or an interconnecting network; a complex whole. Humans are part of this system and they are the system.
+
+We can talk of human-computer interaction, an interdisciplinary or disciplinary distributed strange mix, and get mixed into science and technology studies. With AI we get mixed into UX (user experience) and UI (user interface). We design the interface to recognise a face to place into a category — conviction or convicted, user or used, then an action is taken. A human action perhaps.
+
+2.6 AI & Falsification
+Falsification of these systems has been important and neglected from an anthropological standpoint. Anthropologists have studied economic theory as opposed to practical implications of economy and seen the frameworks or effects lacking. Within technology or AI we seemingly need a lawyer to state the injustice done, such is the jurisdiction of the profession. Despite of these concerns: AI is of course a ‘tremendous opportunity’ and is described by the UN as such in different circumstances.
+
+With increasing funding to the UN from technology firms alongside development, dubious questions can appear. I have heard talk of a borderline decision to reject a medical company wanting to test their medicine after funding, and some people say no. Yet others do not, they say yes, and we can wonder broadly which experiments with artificial intelligence abroad are we allowing to happen either within policing, health, or other areas?
+
+I think saying the best that has happened to our civilisation is a stretch, yet progression is not to be underestimated. I come back to the thought of my father and his Parkinson, or wanting to save my wife if she was ill. I have thought as well about the potential great effects AI can have in mapping the climate crisis or poverty. I would however not be overtly optimistic and ‘borderless’ innovation without care seems more irresponsible.
+
+Climate information has been used by oil companies to prepare for climate change and this is well documented. What effects can be seen from within the technology firms that we are not immediately seeing, or through the applications of solutions within the field of artificial intelligence. A typical finger-pointing is to the children of technology gurus in Silicon Valley, insofar as they restrict the use of devices for their children, or the ban on facial recognition in San Francisco.
+
+I think fear of technology and excitement is a strange cocktail of feelings. I can admit to being ambivalent in dealing with these issues or statements manifold in my stream. A stream of consciousness is what it is, and it seems often what is wanted by certain technologists ‘pushing the boundaries’ in their machines. If we take this expression back to a previous problem then pushing the boundaries of our planetary ecosystem seems a simultaneous venture.
+
+2.7 AI & Climate Crisis
+Refrigeration, transport, minerals, mining, electricity, bandwidth, Kessler Syndrome, satellites, moon travel and so on. Blasting through planetary boundaries in technology is a pursuit that takes this question so towards its extreme it becomes a hyperbole. The dream of space travel and climate friendliness operates within the thought of progress and tribute to the past. Species extinct who are remembered or new planets to be found. Whether it is the new Silk Road or making America great again, we are intrinsically bound to a place in between on the way somewhere.
+
+I have said that we need to stop futuring and instead tackle this present situation, yet it seem impossible to do it. Inevitably any change is bound to the vision of what could be or what should not be. This question immediately pushes into this space of scenario-making. It was truthfully or wrongfully committed not only when looking back, when looking at the screen of a laptop or in a newspaper it becomes so. When was intelligence real? The second meaning of intelligence is the collection of information of military or political value.
+
+We say intelligence and by that do we mean information? If so then we are at a point of time when we have never been more intelligent, never has there been more intelligence available to humans for the possibility of decision-making. As such if we drop the pretence of rationality then perhaps we can do the best or make the best out of this situation as a civilisation. If we stop acting like intelligence is more important than understanding, sympathetic awareness or comprehension.
+
+Information has little value if nothing or little of value is done with the information provided. As such whatever intelligence that we gather we must deem ourselves responsible of its use and strive for understanding for better or worse. We decide if we really are capable to do so, both independently and jointly, for better or worse.
+
+Press enter or click to view image in full size
+
+Parody of The Good, The Bad and The Ugly by Author
+3. The Ugly
+If you ask me where I stand on artificial intelligence (AI) it will not be hard to give you an answer: I am enthusiastic and interested. This is an incredibly fascinating development in technology that can have great positive benefits to humanity, no doubt. However we have recently become more aware of the flip side of technology so to speak, the adverse consequences to the climate (Tarnoff, 2019; AI Now Institute, 2019) and how ‘algorithms punish the poor’ (Pilkington, 2019).
+
+Therefore when we talk of AI nowadays I take everything with a grain of salt, which sounds like it could make the topic more tasty, but to me it is more like salt in your eyes: a frustrating affair. So I will talk of the opposite ends, the optimism of the The Future Society and AI for social good through the Global Data Commons Initiative in opposition to the perspectives from Ed Pilkington the chief reporter for Guardian US and his team presented this week, late October 2019.
+
+It must be mentioned that some members of the UN is working for data commons and another member, a human rights lawyer, is sounding the alarm on automating poverty. If we develop in the field of AI responsibly while being more aware of the consequences perhaps we can proceed forward better. There are both efforts to consolidate data about the poor and capitalise on that data or attempt to deliver better services as a government.
+
+3.1 The Global Data Commons
+The Future Society (TFS) is an organisation with the goal of advancing the global governance of Artificial Intelligence and other emerging technologies. It was originally founded at the Harvard Kennedy School of Government and is an independent 501(c)(3) nonprofit ‘think-and-do tank’ (The Future Society, 2019).
+
+Write on Medium
+On the 25th of September they made a blog post about a new collaboration.
+
+“The Global Data Commons (GDC) aims at leveraging the revolution in advanced analytics and Artificial Intelligence to support the achievement of the UN Sustainable Development Goals (SDGs). It has been envisioned as a precursor for the AI for SDGs Center (AI4SDG) and is a part of the AI Commons initiative.” (The Future Society, 25th of September 2019).
+
+Position papers had been submitted earlier in the year according to the website the World Government Summit in February. There had been a meeting of the Global Data Commons (GDC) ‘international task force’. This collaboration is aimed at: “…helping researchers, governments, corporations, start-ups and individuals to train their algorithms on large, relevant, structured and unstructured data sets,” (World Government Summit, 2019). They would also support the AI4SDG center being set up in Dubai.
+
+Later in 2019 during the AI for Good conference there was a track called AI and the Data Commons (AI for Good, 2019).
+
+The 1st GDC workshop occurred at the World Government Summit in Dubai in Feb. 2019 as part of the ‘Global Governance of AI Forum’ (GGAF).
+The 2nd GDC workshop was held at the AI for Good Global Summit in Geneva in May 2019.
+The 3rd workshop took place close to the United Nations General Assembly on September 25th, 2019.
+The 4th workshop will occur at the World Bank/IMF spring 2020 meetings.
+According to the UN Global Pulse it is now a collaboration between 70 governments, organisations and companies working to create a roadmap for allowing rapid innovation and safe use of AI for the sustainable development goals (SDGs) (Vacarelu, 2019).
+
+Cyrus Hodes, Board member & Chair of the AI Initiative, co-leads the Global Data Commons on behalf of The Future Society along with UN Global Pulse, McKinsey & Company’s Noble Purpose AI, and the AI Commons. The GDC also has numerous multi-stakeholder partners.
+
+Access to quality data. Despite the huge impact potential and increased appetite to collaborate, data collaborative efforts are still constrained.
+Bring together data silos and enable access to data for AI for social good.
+Pilots go beyond current public-private data collaboration efforts (e.g. Facebook Disaster Maps, Landsat, National Fine Dust Forecast Project).
+
+3.2 Digital Dystopia in the US and Automating Poverty
+It sounds great to break down silos, and I support collaboration. However I would like to touch upon an important nuance here made by Ed Pilkington the chief reporter for Guardian US presented this week, late October 2019. His article was called: Digital dystopia: how algorithms punish the poor. I raised a question mark regarding inequality and AI in June 2019, so it is not as if I was unaware, however it seems more concrete examples are emerging.
+
+The Guardian talks more specifically about the welfare system and how it is penalising the most vulnerable.
+
+“…if you are one of the millions of vulnerable people at the receiving end of the radical reshaping of welfare benefits, you know it is real and that its consequences can be serious — even deadly.”
+
+The Guardian spent three months investigating how billions were being poured into AI innovations. Together, their reporters in the US, Britain, India and Australia have explored the digital welfare state. Unemployment benefits, child support, housing and food subsidies and much more are being scrambled online.
+
+Philip Alston, a human rights lawyer will present a report to the UN general assembly in New York about his official UN studies of poverty in the UK and US. Millions are being spent developing a new generation of welfare robots to replace humans.
+
+“Private companies including a New York outfit led by the world’s first bot billionaire, are supercharging a process which has spawned a whole new jargon: ‘virtual workforce’, ‘augmented decision-making’, ‘robot process automation’.”
+
+3.3 Digital by Default
+There is a “digital by default” agenda. Pilkington and his colleagues presents a few noteworthy examples:
+
+Robodebt, the scheme that has been accused of wrongly clawing back historic debts through a flawed algorithm.
+Government has opened a new digital front: using automation to suspend millions of welfare payments.
+Dumka, India — Aadhaar, a 12-digit unique identification number that the Indian government has issued to all residents in the world’s largest biometric experiment.
+“Instead of talking to a caseworker who personally assesses your needs, you now are channeled online where predictive analytics will assign you a future risk score and an algorithm decide your fate”
+
+There is a series in the Guardian following this development called Automating poverty and it is a series exploring how our governments use AI to target the vulnerable.
+
+In another article the argumentation continues:
+
+Big tech companies are being allowed to go unregulated in “human rights free-zones”.
+Welfare budgets are being decimated.
+New penalties are being imposed for non-compliance on people who may be digitally illiterate or lack access to the internet.
+In UK as an examples one in five of the population, do not have essential digital skills needed for modern day-to-day life
+If we can use technology to automate or analyse big data we may know more, however that does not necessarily mean we will help more or better.
+
+“In such a world, citizens become ever more visible to their governments, but not the other way around […] crucial decisions to go digital have been taken by government ministers without consultation, or even by departmental officials without any significant policy discussions taking place […] digital technologies are employed in the welfare state to surveil, target, harass and punish beneficiaries, especially the poorest and most vulnerable among them””
+
+Philip Alston is the current Special Rapporteur on extreme poverty and human rights.
+
+3.4 Without Checks and Balances
+Companies are criticised too for their operations:
+
+Cash Paymaster Services together with MasterCard were initially involved in South Africa’s social grant distribution system which raised privacy concerns because of its biometric data collection.
+In Australia, Indue and Visa helped introduce cashless debit card trials,
+IBM was central to the multimillion-dollar Sams system in Canada, the US, Germany and New Zealand.
+“The self-regulation that has been permitted in the big tech sector, uniquely so among major sectors of the economy, must end and technology companies must “legally be required to respect applicable human rights standards”
+
+I have talked of self-regulation in large technology companies for the last few months. I have seen examples of a trend in regards to funding of ethics; indentured labour in tech; and lack of focus on the climate crisis.
+
+On the other hand I have seen great applications within the field of artificial intelligence that saves lives, such is the case with morality — technology is not bereft of good and bad. Automating decisions stills means a decision was made or will be made. Bad process and planning may be the case due several reasons beyond greed (although likely including this), and it is important that we find out which reasons or start re-evaluating the approach that has been taken so far.
