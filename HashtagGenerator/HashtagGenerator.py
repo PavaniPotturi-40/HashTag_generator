@@ -31,11 +31,13 @@ def main():
 
     stop = set(stopwords.words(FLAGS.language))
 
-    # custom stopwords
+    # Custom stopwords
     custom_stopwords = {
         "may","also","like","one","two","many","much",
-        "article","good","bad","ugly","side","help"
+        "article","good","bad","ugly","side","help",
+        "using","used","use","system","technology"
     }
+
     stop.update(custom_stopwords)
 
     exclude = set(string.punctuation)
@@ -61,26 +63,44 @@ def main():
     else:
         text = open(path).read()
 
+    # -------- PHRASE NORMALIZATION --------
+    text = text.lower()
+
+    text = text.replace("machine learning", "machinelearning")
+    text = text.replace("deep learning", "deeplearning")
+    text = text.replace("artificial intelligence", "ai")
+    text = text.replace("natural language processing", "nlp")
+
     doc_complete = text.split("\n")
 
     # -------- CLEANING FUNCTION --------
     def clean(doc):
 
-        stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
-        punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+        stop_free = " ".join(
+            [i for i in doc.lower().split() if i not in stop]
+        )
+
+        punc_free = ''.join(
+            ch for ch in stop_free if ch not in exclude
+        )
 
         words = []
+
+        important_words = {"ai", "ml", "nlp"}
+
         for word in punc_free.split():
 
             word = lemma.lemmatize(word)
 
-            if (len(word) > 3 and word.isalpha()):
+            if (len(word) > 3 or word in important_words) and word.isalpha():
                 words.append(word)
 
         return " ".join(words)
 
     # -------- CLEAN DOCUMENT --------
-    doc_clean = [clean(doc).split() for doc in doc_complete if clean(doc) != ""]
+    doc_clean = [
+        clean(doc).split() for doc in doc_complete if clean(doc) != ""
+    ]
 
     if len(doc_clean) == 0:
         print("No valid text found for topic modeling.")
@@ -90,7 +110,9 @@ def main():
     dictionary = corpora.Dictionary(doc_clean)
 
     # -------- BAG OF WORDS --------
-    doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean]
+    doc_term_matrix = [
+        dictionary.doc2bow(doc) for doc in doc_clean
+    ]
 
     # -------- LDA MODEL --------
     Lda = gensim.models.ldamodel.LdaModel
@@ -105,7 +127,7 @@ def main():
     # -------- EXTRACT TOPICS --------
     topics = ldamodel.show_topics(
         num_topics=FLAGS.hashtags,
-        num_words=8,
+        num_words=10,
         formatted=False
     )
 
@@ -117,7 +139,8 @@ def main():
             if len(word) > 3:
                 hashtags.append("#" + word)
 
-    hashtags = list(set(hashtags))
+    hashtags = list(dict.fromkeys(hashtags))
+
     hashtags = hashtags[:FLAGS.hashtags]
 
     print("\nHashTags:\n")
@@ -151,7 +174,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--hashtags",
         type=int,
-        default=8,
+        default=6,
         help="Number of hashtags"
     )
 
