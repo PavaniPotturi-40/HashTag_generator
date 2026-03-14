@@ -72,8 +72,8 @@ def main():
 
             word = lemma.lemmatize(word)
 
-            if len(word) > 3 and word.isalpha():
-                words.append(word)
+           if (len(word) > 3 or word in ["ai","ml"]) and word.isalpha():                
+                   words.append(word)
 
         return " ".join(words)
 
